@@ -34,7 +34,6 @@ To run this project, you need the following:
 
 First, clone the repository from GitHub:
 
-```bash
 git clone https://github.com/tinajuresko/Appetizers.git
 cd Appetizers
 
